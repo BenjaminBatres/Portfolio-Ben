@@ -10,6 +10,9 @@ import { useInView } from "react-intersection-observer"
 import skinstric from "../../assets/Images/Skinstric-img.png"
 import ultraverseMaket from "../../assets/Images/Ultraverse-market-img.png"
 import netflix from "../../assets/Images/Netflix-img.png"
+import youtubeClone from "../../assets/Images/Youtube_Clone-img.png"
+import movieAPI from "../../assets/Images/Movie_API-img.png"
+import libraryReactProject from "../../assets/Images/Library_React_Project-img.png"
 
 
 export default function Projects() {
@@ -35,6 +38,7 @@ export default function Projects() {
       img: skinstric,
       title: "A routine tailored to what your skin needs.",
       detail: "I redesigned Skinstric.ai and made it more modern. I created this project using NextjS 14. I implemented a camera that uses artificial intelligence (AI) to scan a user's face and display their gender, age, and race. Added a backend database using Prisma, Express.js, and PostgresSQL.",
+      link: "https://skintric-project-aykkak9jx-chaparro-bens-projects.vercel.app/",
     },
     {
       client: "Ultraverse Market",
@@ -42,6 +46,7 @@ export default function Projects() {
       img: ultraverseMaket,
       title: "Create, sell or collect digital items.",
       detail: "In this project, I completely transformed a static HTML, CSS, JavaScript, and React single-page application into an interactive user interface using animations, transitions, and carousels. I fetched the user's data from an API request and made it dynamic. I utilized Git version controls and interface to work and thrive in a virtual and collaborative team environment.",
+      link: "https://ben-internship-murex.vercel.app/"
     },
     {
       client: "Netflix Clone",
@@ -49,6 +54,31 @@ export default function Projects() {
       img: netflix,
       title: "Watch your favorite movies",
       detail: "I created a Netflix clone using React and Firebase to practice building a dynamic and responsive web application. The app fetches data from the TMDb API to display movies and TV shows by category, supports user authentication, and is fully responsive. Through this project, I strengthened my skills in API intergation, React hooks, and UI design.",
+      link: "https://netflix-clone-jb39y11tp-chaparro-bens-projects.vercel.app/login"
+    },
+    {
+      client: "Movie API",
+      year: "2024",
+      img: movieAPI,
+      title: "Search For Your Favorite movies",
+      detail: "I created a Netflix clone using React and Firebase to practice building a dynamic and responsive web application. The app fetches data from the TMDb API to display movies and TV shows by category, supports user authentication, and is fully responsive. Through this project, I strengthened my skills in API intergation, React hooks, and UI design.",
+      link: "https://movie-api-taupe-five.vercel.app/"
+    },
+    {
+      client: "Library React Project",
+      year: "2024",
+      img: libraryReactProject,
+      title: "Browse through my online book store",
+      detail: "I created a Netflix clone using React and Firebase to practice building a dynamic and responsive web application. The app fetches data from the TMDb API to display movies and TV shows by category, supports user authentication, and is fully responsive. Through this project, I strengthened my skills in API intergation, React hooks, and UI design.",
+      link: "https://library-react-flor4pl34-chaparro-bens-projects.vercel.app/"
+    },
+    {
+      client: "Youtube Clone",
+      year: "2025",
+      img: youtubeClone,
+      title: "See whats new to watch",
+      detail: "I created a Netflix clone using React and Firebase to practice building a dynamic and responsive web application. The app fetches data from the TMDb API to display movies and TV shows by category, supports user authentication, and is fully responsive. Through this project, I strengthened my skills in API intergation, React hooks, and UI design.",
+      link: "https://youtube-clone-amber-sigma.vercel.app/"
     },
   ]
 
