@@ -61,7 +61,7 @@ export default function Projects() {
       year: "2024",
       img: movieAPI,
       title: "Search For Your Favorite movies",
-      detail: "I created a Netflix clone using React and Firebase to practice building a dynamic and responsive web application. The app fetches data from the TMDb API to display movies and TV shows by category, supports user authentication, and is fully responsive. Through this project, I strengthened my skills in API intergation, React hooks, and UI design.",
+      detail: "Created a website that displays any movie that the user searches for and includes a sorting option that goes from newest to oldest or vice versa.",
       link: "https://movie-api-taupe-five.vercel.app/"
     },
     {
@@ -69,7 +69,7 @@ export default function Projects() {
       year: "2024",
       img: libraryReactProject,
       title: "Browse through my online book store",
-      detail: "I created a Netflix clone using React and Firebase to practice building a dynamic and responsive web application. The app fetches data from the TMDb API to display movies and TV shows by category, supports user authentication, and is fully responsive. Through this project, I strengthened my skills in API intergation, React hooks, and UI design.",
+      detail: "Designed and deployed an e-commerce library site that improved checkout speed by 25%, integrated lazy loading to enhance image loading times by 40%, and optimized the UI for mobile responsiveness.",
       link: "https://library-react-flor4pl34-chaparro-bens-projects.vercel.app/"
     },
     {
@@ -77,7 +77,7 @@ export default function Projects() {
       year: "2025",
       img: youtubeClone,
       title: "See whats new to watch",
-      detail: "I created a Netflix clone using React and Firebase to practice building a dynamic and responsive web application. The app fetches data from the TMDb API to display movies and TV shows by category, supports user authentication, and is fully responsive. Through this project, I strengthened my skills in API intergation, React hooks, and UI design.",
+      detail: "Developed a YouTube clone using React and Material UI, supporting 500+ video searches daily, improving page load speed by 30%, and implementing responsive layouts for all screen sizes.",
       link: "https://youtube-clone-amber-sigma.vercel.app/"
     },
   ]
