@@ -8,7 +8,7 @@ import { motion, useAnimation } from "framer-motion"
 import { useInView } from "react-intersection-observer"
 
 import skinstric from "../../assets/Images/Skinstric-img.png"
-import ultraverseMaket from "../../assets/Images/ultraverse-market-img.png"
+import ultraverseMaket from "../../assets/Images/Ultraverse-market-img.png"
 import netflix from "../../assets/Images/Netflix-img.png"
 
 
