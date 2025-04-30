@@ -72,10 +72,10 @@ export default function Resume() {
                 <a href="https://github.com/BenjaminBatres" target="_blank" rel="noreferrer">
                   <Icon img={githubIcon} />
                 </a>
-                <a href="https://www.linkedin.com/in/benjamin-batres-9216b5329/" target="_blank" rel="noreferrer">
+                <a href="https://www.linkedin.com/in/benjamin-batres-9216b5329/" rel="noreferrer">
                   <Icon img={linkedinIcon} />
                 </a>
-                <a href="/Resume/Benjamin%20Batres%20-%20Resume.pdf" download="Benjamin_Batres-Resume.pdf" rel="noreferrer">
+                <a href="/public/Resume/Benjamin Batres - Resume.pdf" download="Benjamin_Batres-Resume.pdf" rel="noreferrer">
                   <Icon img={fileIcon} />
                 </a>
               </motion.div>
