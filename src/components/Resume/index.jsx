@@ -75,7 +75,7 @@ export default function Resume() {
                 <a href="https://www.linkedin.com/in/benjamin-batres-9216b5329/" rel="noreferrer">
                   <Icon img={linkedinIcon} />
                 </a>
-                <a href="/public/Resume/Benjamin Batres - Resume.pdf" download="Benjamin_Batres-Resume.pdf" rel="noreferrer">
+                <a href="/Resume/Benjamin Batres - Resume.pdf" download="Benjamin_Batres-Resume.pdf" rel="noreferrer">
                   <Icon img={fileIcon} />
                 </a>
               </motion.div>
