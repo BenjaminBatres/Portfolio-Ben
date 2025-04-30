@@ -1,13 +1,28 @@
 [
   {
-    "company": "Frontend Developer Internship",
+    "company": "Skinstric AI",
     "role": "Software Engineer",
     "resps": [
-      "Enhanced user engagement by 40% by integrating smooth animations, transitions, and carousels into a React-based SPA, resulting in a more interactive experience",
-      "Optimized API response time by 30% by implementing skeleton loading states, pagination, and dynamic routing, improving data rendering speed.",
-      "Utilized Git version control and interface to work and thrive in a virtual and collaborative team environment.",
-      "Created engaging UI animations, boosting user interaction and satisfaction."
+      "Designed and deployed a real-time skin analysis platform using OpenAI Vision API and Next.js 14, achieving 98% accuracy across a wide range of skin conditions",
+      "Built a fully responsive UI with TailwindCSS and GSAP, featuring dynamic skincare recommendation cards that boosted user engagement by 60%.",
+      "Enhanced performance through Next.js Server Components and Lottie animations, delivering skin condition analysis in under 2 seconds.",
+      "Developed a custom GSAP timeline animation system to streamline the skin analysis experience, resulting in a 40% increase in user retention.",
+      "Created a modular component library with TailwindCSS for skincare product listings, accelerating A/B testing and layout iteration.",
+      "Engineered an efficient image processing pipeline integrating OpenAI Vision API and a 4D Mini model to improve accuracy in detecting skin tone and texture variations."
     ],
-    "date": "Jan 2025 - Current"
+    "date": "March 2025 - April 2025"
+  },
+  {
+    "company": "Frontend Simplified",
+    "role": "Frontend Developer & Support staff",
+    "resps": [
+      "Selected as a peer mentor for ranking in the top 5% of the cohort, providing code reviews and debugging support for 20+ students working on React and Next.js projects.",
+      "Designed and facilitated workshops on modern frontend optimization, enabling students to cut portfolio project load times by an average of 50%.",
+      "Authored in-depth learning materials on React component architecture and TypeScript, helping 70% of mentees successfully build type-safe applications.",
+      "Initiated and led weekly pair programming sessions focused on accessibility and SEO, resulting in 90% of students achieving WCAG-compliant projects.",
+      "Developed and distributed a reusable component library using ShadCN/UI, reducing development time by 40% and standardizing code across student projects.",
+      "Organized and led study groups on deployment and CI/CD best practices, with 85% of participants successfully setting up automated deployment pipelines."
+    ],
+    "date": "September 2025 - Current"
   }
 ]
