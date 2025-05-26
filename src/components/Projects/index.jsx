@@ -46,7 +46,7 @@ export default function Projects() {
       img: ultraverseMaket,
       title: "Create, sell or collect digital items.",
       detail: "In this project, I completely transformed a static HTML, CSS, JavaScript, and React single-page application into an interactive user interface using animations, transitions, and carousels. I fetched the user's data from an API request and made it dynamic. I utilized Git version controls and interface to work and thrive in a virtual and collaborative team environment.",
-      link: "https://ben-internship-murex.vercel.app/"
+      link: "https://skintric-project.vercel.app/"
     },
     {
       client: "Netflix Clone",
