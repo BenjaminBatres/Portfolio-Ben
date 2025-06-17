@@ -38,7 +38,7 @@ export default function Projects() {
       img: skinstric,
       title: "A routine tailored to what your skin needs.",
       detail: "I redesigned Skinstric.ai and made it more modern. I created this project using NextjS 14. I implemented a camera that uses artificial intelligence (AI) to scan a user's face and display their gender, age, and race. Added a backend database using Prisma, Express.js, and PostgresSQL.",
-      link: "https://skintric-project-aykkak9jx-chaparro-bens-projects.vercel.app/",
+      link: "https://skintric-project.vercel.app/",
     },
     {
       client: "Ultraverse Market",
@@ -46,7 +46,7 @@ export default function Projects() {
       img: ultraverseMaket,
       title: "Create, sell or collect digital items.",
       detail: "In this project, I completely transformed a static HTML, CSS, JavaScript, and React single-page application into an interactive user interface using animations, transitions, and carousels. I fetched the user's data from an API request and made it dynamic. I utilized Git version controls and interface to work and thrive in a virtual and collaborative team environment.",
-      link: "https://skintric-project.vercel.app/"
+      link: "https://ben-internship-murex.vercel.app/"
     },
     {
       client: "Netflix Clone",
