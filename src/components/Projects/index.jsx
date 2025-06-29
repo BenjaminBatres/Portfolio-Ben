@@ -63,7 +63,7 @@ export default function Projects() {
       img: netflix,
       title: "Watch your favorite movies",
       detail: "I created a Netflix clone using React and Firebase to practice building a dynamic and responsive web application. The app fetches data from the TMDb API to display movies and TV shows by category, supports user authentication, and is fully responsive. Through this project, I strengthened my skills in API intergation, React hooks, and UI design.",
-      link: "https://netflix-clone-jb39y11tp-chaparro-bens-projects.vercel.app/login"
+      link: "https://netflix-clone-murex-gamma.vercel.app/login"
     },
     {
       client: "Movie API",
@@ -79,7 +79,7 @@ export default function Projects() {
       img: libraryReactProject,
       title: "Browse through my online book store",
       detail: "Designed and deployed an e-commerce library site that improved checkout speed by 25%, integrated lazy loading to enhance image loading times by 40%, and optimized the UI for mobile responsiveness.",
-      link: "https://library-react-flor4pl34-chaparro-bens-projects.vercel.app/"
+      link: "https://library-react-mu-seven.vercel.app/"
     },
     {
       client: "Youtube Clone",
