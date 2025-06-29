@@ -13,6 +13,7 @@ import netflix from "../../assets/Images/Netflix-img.png"
 import youtubeClone from "../../assets/Images/Youtube_Clone-img.png"
 import movieAPI from "../../assets/Images/Movie_API-img.png"
 import libraryReactProject from "../../assets/Images/Library_React_Project-img.png"
+import summaristProject from "../../assets/Images/Summarist-img.png"
 
 
 export default function Projects() {
@@ -47,6 +48,14 @@ export default function Projects() {
       title: "Create, sell or collect digital items.",
       detail: "In this project, I completely transformed a static HTML, CSS, JavaScript, and React single-page application into an interactive user interface using animations, transitions, and carousels. I fetched the user's data from an API request and made it dynamic. I utilized Git version controls and interface to work and thrive in a virtual and collaborative team environment.",
       link: "https://ben-internship-murex.vercel.app/"
+    },
+    {
+      client: "Summarist",
+      year: "2025",
+      img: summaristProject,
+      title: "Great summaries for busy people, individuals who barely have time to read,and even people who don’t like to read.",
+      detail: "This site was developed as part of my internship preparation and showcases both my front-end skills and my ability to deliver production-ready websites using modern tools. It serves as a professional landing page to introduce myself to recruiters and potential clients.",
+      link: "https://ben-internship-v2.vercel.app/"
     },
     {
       client: "Netflix Clone",
