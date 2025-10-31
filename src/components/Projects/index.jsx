@@ -9,6 +9,7 @@ import { useInView } from "react-intersection-observer"
 
 import skinstric from "../../assets/Images/Skinstric-img.png"
 import ultraverseMaket from "../../assets/Images/Ultraverse-market-img.png"
+import saveSpend from "../../assets/Images/Save_Spend-img.png"
 import netflix from "../../assets/Images/Netflix-img.png"
 import youtubeClone from "../../assets/Images/Youtube_Clone-img.png"
 import movieAPI from "../../assets/Images/Movie_API-img.png"
@@ -40,6 +41,14 @@ export default function Projects() {
       title: "A routine tailored to what your skin needs.",
       detail: "I redesigned Skinstric.ai and made it more modern. I created this project using NextjS 14. I implemented a camera that uses artificial intelligence (AI) to scan a user's face and display their gender, age, and race. Added a backend database using Prisma, Express.js, and PostgresSQL.",
       link: "https://skintric-project.vercel.app/",
+    },
+    {
+      client: "SaveSpend",
+      year: "2025",
+      img: saveSpend,
+      title: "Take control of your finance",
+      detail: "SaveSpend is a personal finance web app that helps people learn how to save smarter and see exactly where their money goes. Built with Next.js, Tailwind CSS, Firebase, and the OpenAI API, it guides users through budgeting, tracking expenses, and even chatting with an AI finance assistant for personalized tips.",
+      link: "https://save-spend.vercel.app/"
     },
     {
       client: "Ultraverse Market",
