@@ -9,7 +9,7 @@ import { useInView } from "react-intersection-observer"
 
 import skinstric from "../../assets/Images/Skinstric-img.png"
 import ultraverseMaket from "../../assets/Images/Ultraverse-market-img.png"
-import saveSpend from "../../assets/Images/Save_Spend-img.png"
+import saveSpend from "../../assets/Images/Save_Spend-Img.png"
 import netflix from "../../assets/Images/Netflix-img.png"
 import youtubeClone from "../../assets/Images/Youtube_Clone-img.png"
 import movieAPI from "../../assets/Images/Movie_API-img.png"
