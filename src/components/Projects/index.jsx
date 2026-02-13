@@ -12,7 +12,7 @@ import ultraverseMaket from "../../assets/Images/Ultraverse-market-img.png"
 import saveSpend from "../../assets/Images/Save_Spend-Img.png"
 import netflix from "../../assets/Images/Netflix-img.png"
 import youtubeClone from "../../assets/Images/Youtube_Clone-img.png"
-import movieAPI from "../../assets/Images/Movie_API-img.png"
+import movieAPI from "../../assets/Images/MovieAPI.jpg"
 import libraryReactProject from "../../assets/Images/Library_React_Project-img.png"
 import summaristProject from "../../assets/Images/Summarist-img.png"
 
@@ -80,7 +80,7 @@ export default function Projects() {
       img: movieAPI,
       title: "Search For Your Favorite movies",
       detail: "Created a website that displays any movie that the user searches for and includes a sorting option that goes from newest to oldest or vice versa.",
-      link: "https://movie-api-taupe-five.vercel.app/"
+      link: "https://movie-api-v2-alpha.vercel.app/"
     },
     {
       client: "Library React Project",
